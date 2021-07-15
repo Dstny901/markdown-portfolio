@@ -1,1 +1,1 @@
-[Github] (https://github.com/Dstny901)
+[Github](https://github.com/Dstny901) .
