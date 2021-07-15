@@ -1,1 +1,1 @@
-! [Image of Wolf] (https://www.pinterest.com/pin/9148005499496443/) .
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
