@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Wolf] (https://www.pinterest.com/pin/9148005499496443/)
